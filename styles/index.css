@@ -1,0 +1,60 @@
+.Flex2, .Flex15, .Flex16, .Flex18, .Flex25, .Flex26, .Flex35, .Flex33, .Flex50, .Flex36{
+    background-size: cover;
+}
+
+.Flex3{
+    background-image: url('../public/assets/hero_grid.png'), url('../public/assets/stars.png');
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.TextBox8{
+    background: radial-gradient(123.54% 11193.07% at 49.94% 50.62%, #FFFFFF 0%, rgba(255, 255, 255, 0) 100%);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    background-clip: text;
+}
+
+.TextBox9, .TextBox11, .TextBox12, .TextBox13, .TextBox21, .TextBox19, .TextBox24, .TextBox25, .TextBox20, .TextBox31{
+    background: radial-gradient(93.32% 8455.03% at 49.94% 50.62%, #FFFFFF 0%, rgba(255, 255, 255, 0.16) 100%);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    background-clip: text;
+}
+
+.TextBox10, .TextBox15{
+    background: linear-gradient(154.71deg, #C183FF 0%, #A0DDFF 147.78%);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    background-clip: text;
+}
+
+.Div1{
+    background-color: linear-gradient(154.71deg, #C183FF 0%, #A0DDFF 147.78%);
+}
+
+.Flex31{
+    border-image-source: linear-gradient(139.46deg, #C183FF 0%, #0D0D16 49.67%, #A2A0FF 100%);
+}
+
+.Flex50{
+    background-image: url('../public/assets/community_pink.png'), url('../public/assets/stars.png');
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+@media only screen and (max-width: 992px){
+    .Flex2, .Flex15, .Flex16, .Flex18{
+        background-size: cover;
+    }
+
+    .Image16{
+        visibility: hidden;
+    }
+}
+
+@media only screen and (max-width: 600px){
+    .Flex2, .Flex15, .Flex16, .Flex18{
+        background-size: cover;
+    }
+}
