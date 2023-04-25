@@ -348,6 +348,33 @@ class Page:
 		self.Flex151 = state["Flex151"] if "Flex151" in state else None
 		self.Flex152 = state["Flex152"] if "Flex152" in state else None
 		self.Flex153 = state["Flex153"] if "Flex153" in state else None
+		self.TextBox102 = state["TextBox102"] if "TextBox102" in state else None
+		self.TextBox103 = state["TextBox103"] if "TextBox103" in state else None
+		self.TextBox104 = state["TextBox104"] if "TextBox104" in state else None
+		self.TextBox105 = state["TextBox105"] if "TextBox105" in state else None
+		self.Flex156 = state["Flex156"] if "Flex156" in state else None
+		self.Flex157 = state["Flex157"] if "Flex157" in state else None
+		self.TextBox106 = state["TextBox106"] if "TextBox106" in state else None
+		self.TextBox107 = state["TextBox107"] if "TextBox107" in state else None
+		self.TextBox108 = state["TextBox108"] if "TextBox108" in state else None
+		self.Flex158 = state["Flex158"] if "Flex158" in state else None
+		self.TextBox109 = state["TextBox109"] if "TextBox109" in state else None
+		self.Flex159 = state["Flex159"] if "Flex159" in state else None
+		self.TextBox110 = state["TextBox110"] if "TextBox110" in state else None
+		self.TextBox111 = state["TextBox111"] if "TextBox111" in state else None
+		self.Flex160 = state["Flex160"] if "Flex160" in state else None
+		self.TextBox112 = state["TextBox112"] if "TextBox112" in state else None
+		self.Flex161 = state["Flex161"] if "Flex161" in state else None
+		self.TextBox113 = state["TextBox113"] if "TextBox113" in state else None
+		self.Flex162 = state["Flex162"] if "Flex162" in state else None
+		self.TextBox114 = state["TextBox114"] if "TextBox114" in state else None
+		self.Flex163 = state["Flex163"] if "Flex163" in state else None
+		self.Flex164 = state["Flex164"] if "Flex164" in state else None
+		self.TextBox115 = state["TextBox115"] if "TextBox115" in state else None
+		self.TextBox116 = state["TextBox116"] if "TextBox116" in state else None
+		self.Flex165 = state["Flex165"] if "Flex165" in state else None
+		self.TextBox117 = state["TextBox117"] if "TextBox117" in state else None
+		self.Flex166 = state["Flex166"] if "Flex166" in state else None
 		self._setter_access_tracker = {}
 		self._getter_access_tracker = {}
   
@@ -3375,6 +3402,249 @@ class Page:
 	def Flex153(self, new_state):
 		self._setter_access_tracker["Flex153"] = {}
 		self._Flex153 = Flex(new_state)
+
+	@property
+	def TextBox102(self):
+		self._getter_access_tracker["TextBox102"] = {}
+		return self._TextBox102
+	@TextBox102.setter
+	def TextBox102(self, new_state):
+		self._setter_access_tracker["TextBox102"] = {}
+		self._TextBox102 = TextBox(new_state)
+
+	@property
+	def TextBox103(self):
+		self._getter_access_tracker["TextBox103"] = {}
+		return self._TextBox103
+	@TextBox103.setter
+	def TextBox103(self, new_state):
+		self._setter_access_tracker["TextBox103"] = {}
+		self._TextBox103 = TextBox(new_state)
+
+	@property
+	def TextBox104(self):
+		self._getter_access_tracker["TextBox104"] = {}
+		return self._TextBox104
+	@TextBox104.setter
+	def TextBox104(self, new_state):
+		self._setter_access_tracker["TextBox104"] = {}
+		self._TextBox104 = TextBox(new_state)
+
+	@property
+	def TextBox105(self):
+		self._getter_access_tracker["TextBox105"] = {}
+		return self._TextBox105
+	@TextBox105.setter
+	def TextBox105(self, new_state):
+		self._setter_access_tracker["TextBox105"] = {}
+		self._TextBox105 = TextBox(new_state)
+
+	@property
+	def Flex156(self):
+		self._getter_access_tracker["Flex156"] = {}
+		return self._Flex156
+	@Flex156.setter
+	def Flex156(self, new_state):
+		self._setter_access_tracker["Flex156"] = {}
+		self._Flex156 = Flex(new_state)
+
+	@property
+	def Flex157(self):
+		self._getter_access_tracker["Flex157"] = {}
+		return self._Flex157
+	@Flex157.setter
+	def Flex157(self, new_state):
+		self._setter_access_tracker["Flex157"] = {}
+		self._Flex157 = Flex(new_state)
+
+	@property
+	def TextBox106(self):
+		self._getter_access_tracker["TextBox106"] = {}
+		return self._TextBox106
+	@TextBox106.setter
+	def TextBox106(self, new_state):
+		self._setter_access_tracker["TextBox106"] = {}
+		self._TextBox106 = TextBox(new_state)
+
+	@property
+	def TextBox107(self):
+		self._getter_access_tracker["TextBox107"] = {}
+		return self._TextBox107
+	@TextBox107.setter
+	def TextBox107(self, new_state):
+		self._setter_access_tracker["TextBox107"] = {}
+		self._TextBox107 = TextBox(new_state)
+
+	@property
+	def TextBox108(self):
+		self._getter_access_tracker["TextBox108"] = {}
+		return self._TextBox108
+	@TextBox108.setter
+	def TextBox108(self, new_state):
+		self._setter_access_tracker["TextBox108"] = {}
+		self._TextBox108 = TextBox(new_state)
+
+	@property
+	def Flex158(self):
+		self._getter_access_tracker["Flex158"] = {}
+		return self._Flex158
+	@Flex158.setter
+	def Flex158(self, new_state):
+		self._setter_access_tracker["Flex158"] = {}
+		self._Flex158 = Flex(new_state)
+
+	@property
+	def TextBox109(self):
+		self._getter_access_tracker["TextBox109"] = {}
+		return self._TextBox109
+	@TextBox109.setter
+	def TextBox109(self, new_state):
+		self._setter_access_tracker["TextBox109"] = {}
+		self._TextBox109 = TextBox(new_state)
+
+	@property
+	def Flex159(self):
+		self._getter_access_tracker["Flex159"] = {}
+		return self._Flex159
+	@Flex159.setter
+	def Flex159(self, new_state):
+		self._setter_access_tracker["Flex159"] = {}
+		self._Flex159 = Flex(new_state)
+
+	@property
+	def TextBox110(self):
+		self._getter_access_tracker["TextBox110"] = {}
+		return self._TextBox110
+	@TextBox110.setter
+	def TextBox110(self, new_state):
+		self._setter_access_tracker["TextBox110"] = {}
+		self._TextBox110 = TextBox(new_state)
+
+	@property
+	def TextBox111(self):
+		self._getter_access_tracker["TextBox111"] = {}
+		return self._TextBox111
+	@TextBox111.setter
+	def TextBox111(self, new_state):
+		self._setter_access_tracker["TextBox111"] = {}
+		self._TextBox111 = TextBox(new_state)
+
+	@property
+	def Flex160(self):
+		self._getter_access_tracker["Flex160"] = {}
+		return self._Flex160
+	@Flex160.setter
+	def Flex160(self, new_state):
+		self._setter_access_tracker["Flex160"] = {}
+		self._Flex160 = Flex(new_state)
+
+	@property
+	def TextBox112(self):
+		self._getter_access_tracker["TextBox112"] = {}
+		return self._TextBox112
+	@TextBox112.setter
+	def TextBox112(self, new_state):
+		self._setter_access_tracker["TextBox112"] = {}
+		self._TextBox112 = TextBox(new_state)
+
+	@property
+	def Flex161(self):
+		self._getter_access_tracker["Flex161"] = {}
+		return self._Flex161
+	@Flex161.setter
+	def Flex161(self, new_state):
+		self._setter_access_tracker["Flex161"] = {}
+		self._Flex161 = Flex(new_state)
+
+	@property
+	def TextBox113(self):
+		self._getter_access_tracker["TextBox113"] = {}
+		return self._TextBox113
+	@TextBox113.setter
+	def TextBox113(self, new_state):
+		self._setter_access_tracker["TextBox113"] = {}
+		self._TextBox113 = TextBox(new_state)
+
+	@property
+	def Flex162(self):
+		self._getter_access_tracker["Flex162"] = {}
+		return self._Flex162
+	@Flex162.setter
+	def Flex162(self, new_state):
+		self._setter_access_tracker["Flex162"] = {}
+		self._Flex162 = Flex(new_state)
+
+	@property
+	def TextBox114(self):
+		self._getter_access_tracker["TextBox114"] = {}
+		return self._TextBox114
+	@TextBox114.setter
+	def TextBox114(self, new_state):
+		self._setter_access_tracker["TextBox114"] = {}
+		self._TextBox114 = TextBox(new_state)
+
+	@property
+	def Flex163(self):
+		self._getter_access_tracker["Flex163"] = {}
+		return self._Flex163
+	@Flex163.setter
+	def Flex163(self, new_state):
+		self._setter_access_tracker["Flex163"] = {}
+		self._Flex163 = Flex(new_state)
+
+	@property
+	def Flex164(self):
+		self._getter_access_tracker["Flex164"] = {}
+		return self._Flex164
+	@Flex164.setter
+	def Flex164(self, new_state):
+		self._setter_access_tracker["Flex164"] = {}
+		self._Flex164 = Flex(new_state)
+
+	@property
+	def TextBox115(self):
+		self._getter_access_tracker["TextBox115"] = {}
+		return self._TextBox115
+	@TextBox115.setter
+	def TextBox115(self, new_state):
+		self._setter_access_tracker["TextBox115"] = {}
+		self._TextBox115 = TextBox(new_state)
+
+	@property
+	def TextBox116(self):
+		self._getter_access_tracker["TextBox116"] = {}
+		return self._TextBox116
+	@TextBox116.setter
+	def TextBox116(self, new_state):
+		self._setter_access_tracker["TextBox116"] = {}
+		self._TextBox116 = TextBox(new_state)
+
+	@property
+	def Flex165(self):
+		self._getter_access_tracker["Flex165"] = {}
+		return self._Flex165
+	@Flex165.setter
+	def Flex165(self, new_state):
+		self._setter_access_tracker["Flex165"] = {}
+		self._Flex165 = Flex(new_state)
+
+	@property
+	def TextBox117(self):
+		self._getter_access_tracker["TextBox117"] = {}
+		return self._TextBox117
+	@TextBox117.setter
+	def TextBox117(self, new_state):
+		self._setter_access_tracker["TextBox117"] = {}
+		self._TextBox117 = TextBox(new_state)
+
+	@property
+	def Flex166(self):
+		self._getter_access_tracker["Flex166"] = {}
+		return self._Flex166
+	@Flex166.setter
+	def Flex166(self, new_state):
+		self._setter_access_tracker["Flex166"] = {}
+		self._Flex166 = Flex(new_state)
   
 	def _to_json_fields(self):
 		return {
@@ -3712,6 +3982,33 @@ class Page:
 			"Flex150": self._Flex150,
 			"Flex151": self._Flex151,
 			"Flex152": self._Flex152,
-			"Flex153": self._Flex153
+			"Flex153": self._Flex153,
+			"TextBox102": self._TextBox102,
+			"TextBox103": self._TextBox103,
+			"TextBox104": self._TextBox104,
+			"TextBox105": self._TextBox105,
+			"Flex156": self._Flex156,
+			"Flex157": self._Flex157,
+			"TextBox106": self._TextBox106,
+			"TextBox107": self._TextBox107,
+			"TextBox108": self._TextBox108,
+			"Flex158": self._Flex158,
+			"TextBox109": self._TextBox109,
+			"Flex159": self._Flex159,
+			"TextBox110": self._TextBox110,
+			"TextBox111": self._TextBox111,
+			"Flex160": self._Flex160,
+			"TextBox112": self._TextBox112,
+			"Flex161": self._Flex161,
+			"TextBox113": self._TextBox113,
+			"Flex162": self._Flex162,
+			"TextBox114": self._TextBox114,
+			"Flex163": self._Flex163,
+			"Flex164": self._Flex164,
+			"TextBox115": self._TextBox115,
+			"TextBox116": self._TextBox116,
+			"Flex165": self._Flex165,
+			"TextBox117": self._TextBox117,
+			"Flex166": self._Flex166
 			}
   
