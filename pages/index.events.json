@@ -119124,5 +119124,203 @@
       }
     },
     "id": "dad790bd-d0b4-4f1d-979f-dcd49fcd6ac3"
+  },
+  {
+    "type": "PATCH$$@atrilabs/app-design-forest/src/cssTree",
+    "slice": {
+      "property": {
+        "styles": {
+          "color": "#DDDDDDff"
+        }
+      }
+    },
+    "id": "5dc9ed08-c0a3-419e-994b-c82eac4983f9"
+  },
+  {
+    "type": "PATCH$$@atrilabs/app-design-forest/src/cssTree",
+    "slice": {
+      "property": {
+        "styles": {
+          "color": "#DDDDDDff"
+        }
+      }
+    },
+    "id": "5dc9ed08-c0a3-419e-994b-c82eac4983f9"
+  },
+  {
+    "type": "PATCH$$@atrilabs/app-design-forest/src/cssTree",
+    "slice": {
+      "property": {
+        "styles": {
+          "color": "#DDDDDDff"
+        }
+      }
+    },
+    "id": "5dc9ed08-c0a3-419e-994b-c82eac4983f9"
+  },
+  {
+    "type": "PATCH$$@atrilabs/app-design-forest/src/cssTree",
+    "slice": {
+      "breakpoints": {
+        "992": {
+          "property": {
+            "styles": {
+              "fontFamily": "Sora"
+            }
+          }
+        }
+      }
+    },
+    "id": "40ec0690-6cd0-4cb5-8970-29518d24b2a5"
+  },
+  {
+    "type": "PATCH$$@atrilabs/app-design-forest/src/cssTree",
+    "slice": {
+      "breakpoints": {
+        "992": {
+          "property": {
+            "styles": {
+              "fontWeight": 300
+            }
+          }
+        }
+      }
+    },
+    "id": "40ec0690-6cd0-4cb5-8970-29518d24b2a5"
+  },
+  {
+    "type": "PATCH$$@atrilabs/app-design-forest/src/cssTree",
+    "slice": {
+      "breakpoints": {
+        "992": {
+          "property": {
+            "styles": {
+              "fontSize": "1px"
+            }
+          }
+        }
+      }
+    },
+    "id": "40ec0690-6cd0-4cb5-8970-29518d24b2a5"
+  },
+  {
+    "type": "PATCH$$@atrilabs/app-design-forest/src/cssTree",
+    "slice": {
+      "breakpoints": {
+        "992": {
+          "property": {
+            "styles": {
+              "fontSize": "14px"
+            }
+          }
+        }
+      }
+    },
+    "id": "40ec0690-6cd0-4cb5-8970-29518d24b2a5"
+  },
+  {
+    "type": "PATCH$$@atrilabs/app-design-forest/src/cssTree",
+    "slice": {
+      "breakpoints": {
+        "992": {
+          "property": {
+            "styles": {
+              "lineHeight": "3px"
+            }
+          }
+        }
+      }
+    },
+    "id": "40ec0690-6cd0-4cb5-8970-29518d24b2a5"
+  },
+  {
+    "type": "PATCH$$@atrilabs/app-design-forest/src/cssTree",
+    "slice": {
+      "breakpoints": {
+        "992": {
+          "property": {
+            "styles": {
+              "lineHeight": "33px"
+            }
+          }
+        }
+      }
+    },
+    "id": "40ec0690-6cd0-4cb5-8970-29518d24b2a5"
+  },
+  {
+    "type": "PATCH$$@atrilabs/app-design-forest/src/cssTree",
+    "slice": {
+      "breakpoints": {
+        "992": {
+          "property": {
+            "styles": {
+              "lineHeight": "3px"
+            }
+          }
+        }
+      }
+    },
+    "id": "40ec0690-6cd0-4cb5-8970-29518d24b2a5"
+  },
+  {
+    "type": "PATCH$$@atrilabs/app-design-forest/src/cssTree",
+    "slice": {
+      "breakpoints": {
+        "992": {
+          "property": {
+            "styles": {
+              "lineHeight": ""
+            }
+          }
+        }
+      }
+    },
+    "id": "40ec0690-6cd0-4cb5-8970-29518d24b2a5"
+  },
+  {
+    "type": "PATCH$$@atrilabs/app-design-forest/src/cssTree",
+    "slice": {
+      "breakpoints": {
+        "992": {
+          "property": {
+            "styles": {
+              "lineHeight": "2px"
+            }
+          }
+        }
+      }
+    },
+    "id": "40ec0690-6cd0-4cb5-8970-29518d24b2a5"
+  },
+  {
+    "type": "PATCH$$@atrilabs/app-design-forest/src/cssTree",
+    "slice": {
+      "breakpoints": {
+        "992": {
+          "property": {
+            "styles": {
+              "lineHeight": "22px"
+            }
+          }
+        }
+      }
+    },
+    "id": "40ec0690-6cd0-4cb5-8970-29518d24b2a5"
+  },
+  {
+    "type": "PATCH$$@atrilabs/app-design-forest/src/cssTree",
+    "slice": {
+      "breakpoints": {
+        "992": {
+          "property": {
+            "styles": {
+              "color": "#DDDDDDff"
+            }
+          }
+        }
+      }
+    },
+    "id": "40ec0690-6cd0-4cb5-8970-29518d24b2a5"
   }
 ]
