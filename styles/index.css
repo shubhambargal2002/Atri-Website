@@ -57,6 +57,10 @@
     .Image16{
         visibility: hidden;
     }
+
+    .Image81{
+        rotate: -90deg;
+    }
 }
 
 @media only screen and (max-width: 600px){
