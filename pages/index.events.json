@@ -131563,5 +131563,126 @@
       }
     },
     "id": "9b84ac00-f5b8-4cca-ba3e-be728dd9654a"
+  },
+  {
+    "type": "PATCH$$@atrilabs/app-design-forest/src/cssTree",
+    "slice": {
+      "property": {
+        "styles": {
+          "cursor": "pointer"
+        }
+      }
+    },
+    "id": "ad705bc7-02f4-42c3-8d01-754bb48e4645"
+  },
+  {
+    "type": "PATCH$$@atrilabs/app-design-forest/src/cssTree",
+    "slice": {
+      "property": {
+        "styles": {
+          "cursor": "pointer"
+        }
+      }
+    },
+    "id": "b2a8cb0e-9ea6-4aa4-8ad0-02af7385c912"
+  },
+  {
+    "type": "PATCH$$@atrilabs/app-design-forest/src/cssTree",
+    "slice": {
+      "breakpoints": {
+        "992": {
+          "property": {
+            "styles": {
+              "cursor": "pointer"
+            }
+          }
+        }
+      }
+    },
+    "id": "ff72365c-1884-4157-9ec0-e8844a08d35b"
+  },
+  {
+    "type": "PATCH$$@atrilabs/app-design-forest/src/customPropsTree",
+    "slice": {
+      "property": {
+        "custom": {
+          "alt": "No preview available",
+          "src": "/assets/people_5.png"
+        }
+      }
+    },
+    "id": "078ea772-8542-43f6-9b27-63ade0d9a7e2"
+  },
+  {
+    "type": "PATCH$$@atrilabs/app-design-forest/src/customPropsTree",
+    "slice": {
+      "property": {
+        "custom": {
+          "alt": "No preview available",
+          "src": "/assets/people_10.png"
+        }
+      }
+    },
+    "id": "38ec3e26-d5ae-4fe0-b48f-3406dd798b6b"
+  },
+  {
+    "type": "PATCH$$@atrilabs/app-design-forest/src/customPropsTree",
+    "slice": {
+      "property": {
+        "custom": {
+          "alt": "No preview available",
+          "src": "/assets/people_9.png"
+        }
+      }
+    },
+    "id": "710fe3ac-04d4-4ee7-8320-df2b38416edb"
+  },
+  {
+    "type": "PATCH$$@atrilabs/app-design-forest/src/customPropsTree",
+    "slice": {
+      "property": {
+        "custom": {
+          "alt": "No preview available",
+          "src": "/assets/people_3.png"
+        }
+      }
+    },
+    "id": "ae4846dd-b0ed-44fd-af6f-74f91d2f8e12"
+  },
+  {
+    "type": "PATCH$$@atrilabs/app-design-forest/src/customPropsTree",
+    "slice": {
+      "property": {
+        "custom": {
+          "alt": "No preview available",
+          "src": "/assets/people_8.png"
+        }
+      }
+    },
+    "id": "f0d53fa7-6df3-477d-8353-01a9674ae73a"
+  },
+  {
+    "type": "PATCH$$@atrilabs/app-design-forest/src/customPropsTree",
+    "slice": {
+      "property": {
+        "custom": {
+          "alt": "No preview available",
+          "src": "/assets/people_1.png"
+        }
+      }
+    },
+    "id": "06e97c2c-57c7-431c-a5a1-0792c97769d6"
+  },
+  {
+    "type": "PATCH$$@atrilabs/app-design-forest/src/customPropsTree",
+    "slice": {
+      "property": {
+        "custom": {
+          "alt": "No preview available",
+          "src": "/assets/people_7.png"
+        }
+      }
+    },
+    "id": "f97745ee-7be4-4a0c-a6cc-da026d99f0ca"
   }
 ]
