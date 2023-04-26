@@ -2,6 +2,10 @@
     background-size: cover;
 }
 
+.Flex4, .Flex5{
+    backdrop-filter: blur(12px);
+}
+
 .Flex3{
     background-image: url('../public/assets/hero_grid.png'), url('../public/assets/stars.png');
     background-repeat: no-repeat;
