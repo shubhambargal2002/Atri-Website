@@ -395,6 +395,23 @@ class Page:
 		self.Anchor17 = state["Anchor17"] if "Anchor17" in state else None
 		self.Anchor18 = state["Anchor18"] if "Anchor18" in state else None
 		self.Anchor19 = state["Anchor19"] if "Anchor19" in state else None
+		self.Anchor20 = state["Anchor20"] if "Anchor20" in state else None
+		self.Anchor21 = state["Anchor21"] if "Anchor21" in state else None
+		self.Anchor22 = state["Anchor22"] if "Anchor22" in state else None
+		self.Anchor23 = state["Anchor23"] if "Anchor23" in state else None
+		self.Anchor24 = state["Anchor24"] if "Anchor24" in state else None
+		self.Anchor25 = state["Anchor25"] if "Anchor25" in state else None
+		self.Anchor26 = state["Anchor26"] if "Anchor26" in state else None
+		self.Anchor27 = state["Anchor27"] if "Anchor27" in state else None
+		self.Anchor28 = state["Anchor28"] if "Anchor28" in state else None
+		self.Anchor29 = state["Anchor29"] if "Anchor29" in state else None
+		self.Anchor30 = state["Anchor30"] if "Anchor30" in state else None
+		self.Anchor31 = state["Anchor31"] if "Anchor31" in state else None
+		self.Anchor32 = state["Anchor32"] if "Anchor32" in state else None
+		self.Anchor33 = state["Anchor33"] if "Anchor33" in state else None
+		self.Anchor34 = state["Anchor34"] if "Anchor34" in state else None
+		self.Anchor35 = state["Anchor35"] if "Anchor35" in state else None
+		self.Anchor36 = state["Anchor36"] if "Anchor36" in state else None
 		self._setter_access_tracker = {}
 		self._getter_access_tracker = {}
   
@@ -3836,6 +3853,159 @@ class Page:
 	def Anchor19(self, new_state):
 		self._setter_access_tracker["Anchor19"] = {}
 		self._Anchor19 = Anchor(new_state)
+
+	@property
+	def Anchor20(self):
+		self._getter_access_tracker["Anchor20"] = {}
+		return self._Anchor20
+	@Anchor20.setter
+	def Anchor20(self, new_state):
+		self._setter_access_tracker["Anchor20"] = {}
+		self._Anchor20 = Anchor(new_state)
+
+	@property
+	def Anchor21(self):
+		self._getter_access_tracker["Anchor21"] = {}
+		return self._Anchor21
+	@Anchor21.setter
+	def Anchor21(self, new_state):
+		self._setter_access_tracker["Anchor21"] = {}
+		self._Anchor21 = Anchor(new_state)
+
+	@property
+	def Anchor22(self):
+		self._getter_access_tracker["Anchor22"] = {}
+		return self._Anchor22
+	@Anchor22.setter
+	def Anchor22(self, new_state):
+		self._setter_access_tracker["Anchor22"] = {}
+		self._Anchor22 = Anchor(new_state)
+
+	@property
+	def Anchor23(self):
+		self._getter_access_tracker["Anchor23"] = {}
+		return self._Anchor23
+	@Anchor23.setter
+	def Anchor23(self, new_state):
+		self._setter_access_tracker["Anchor23"] = {}
+		self._Anchor23 = Anchor(new_state)
+
+	@property
+	def Anchor24(self):
+		self._getter_access_tracker["Anchor24"] = {}
+		return self._Anchor24
+	@Anchor24.setter
+	def Anchor24(self, new_state):
+		self._setter_access_tracker["Anchor24"] = {}
+		self._Anchor24 = Anchor(new_state)
+
+	@property
+	def Anchor25(self):
+		self._getter_access_tracker["Anchor25"] = {}
+		return self._Anchor25
+	@Anchor25.setter
+	def Anchor25(self, new_state):
+		self._setter_access_tracker["Anchor25"] = {}
+		self._Anchor25 = Anchor(new_state)
+
+	@property
+	def Anchor26(self):
+		self._getter_access_tracker["Anchor26"] = {}
+		return self._Anchor26
+	@Anchor26.setter
+	def Anchor26(self, new_state):
+		self._setter_access_tracker["Anchor26"] = {}
+		self._Anchor26 = Anchor(new_state)
+
+	@property
+	def Anchor27(self):
+		self._getter_access_tracker["Anchor27"] = {}
+		return self._Anchor27
+	@Anchor27.setter
+	def Anchor27(self, new_state):
+		self._setter_access_tracker["Anchor27"] = {}
+		self._Anchor27 = Anchor(new_state)
+
+	@property
+	def Anchor28(self):
+		self._getter_access_tracker["Anchor28"] = {}
+		return self._Anchor28
+	@Anchor28.setter
+	def Anchor28(self, new_state):
+		self._setter_access_tracker["Anchor28"] = {}
+		self._Anchor28 = Anchor(new_state)
+
+	@property
+	def Anchor29(self):
+		self._getter_access_tracker["Anchor29"] = {}
+		return self._Anchor29
+	@Anchor29.setter
+	def Anchor29(self, new_state):
+		self._setter_access_tracker["Anchor29"] = {}
+		self._Anchor29 = Anchor(new_state)
+
+	@property
+	def Anchor30(self):
+		self._getter_access_tracker["Anchor30"] = {}
+		return self._Anchor30
+	@Anchor30.setter
+	def Anchor30(self, new_state):
+		self._setter_access_tracker["Anchor30"] = {}
+		self._Anchor30 = Anchor(new_state)
+
+	@property
+	def Anchor31(self):
+		self._getter_access_tracker["Anchor31"] = {}
+		return self._Anchor31
+	@Anchor31.setter
+	def Anchor31(self, new_state):
+		self._setter_access_tracker["Anchor31"] = {}
+		self._Anchor31 = Anchor(new_state)
+
+	@property
+	def Anchor32(self):
+		self._getter_access_tracker["Anchor32"] = {}
+		return self._Anchor32
+	@Anchor32.setter
+	def Anchor32(self, new_state):
+		self._setter_access_tracker["Anchor32"] = {}
+		self._Anchor32 = Anchor(new_state)
+
+	@property
+	def Anchor33(self):
+		self._getter_access_tracker["Anchor33"] = {}
+		return self._Anchor33
+	@Anchor33.setter
+	def Anchor33(self, new_state):
+		self._setter_access_tracker["Anchor33"] = {}
+		self._Anchor33 = Anchor(new_state)
+
+	@property
+	def Anchor34(self):
+		self._getter_access_tracker["Anchor34"] = {}
+		return self._Anchor34
+	@Anchor34.setter
+	def Anchor34(self, new_state):
+		self._setter_access_tracker["Anchor34"] = {}
+		self._Anchor34 = Anchor(new_state)
+
+	@property
+	def Anchor35(self):
+		self._getter_access_tracker["Anchor35"] = {}
+		return self._Anchor35
+	@Anchor35.setter
+	def Anchor35(self, new_state):
+		self._setter_access_tracker["Anchor35"] = {}
+		self._Anchor35 = Anchor(new_state)
+
+	@property
+	def Anchor36(self):
+		self._getter_access_tracker["Anchor36"] = {}
+		return self._Anchor36
+	@Anchor36.setter
+	def Anchor36(self, new_state):
+		self._setter_access_tracker["Anchor36"] = {}
+		self._Anchor36 = Anchor(new_state)
   
 	def _to_json_fields(self):
 		return {
@@ -4219,6 +4389,23 @@ class Page:
 			"Anchor16": self._Anchor16,
 			"Anchor17": self._Anchor17,
 			"Anchor18": self._Anchor18,
-			"Anchor19": self._Anchor19
+			"Anchor19": self._Anchor19,
+			"Anchor20": self._Anchor20,
+			"Anchor21": self._Anchor21,
+			"Anchor22": self._Anchor22,
+			"Anchor23": self._Anchor23,
+			"Anchor24": self._Anchor24,
+			"Anchor25": self._Anchor25,
+			"Anchor26": self._Anchor26,
+			"Anchor27": self._Anchor27,
+			"Anchor28": self._Anchor28,
+			"Anchor29": self._Anchor29,
+			"Anchor30": self._Anchor30,
+			"Anchor31": self._Anchor31,
+			"Anchor32": self._Anchor32,
+			"Anchor33": self._Anchor33,
+			"Anchor34": self._Anchor34,
+			"Anchor35": self._Anchor35,
+			"Anchor36": self._Anchor36
 			}
   
