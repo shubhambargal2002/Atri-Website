@@ -1,8 +1,9 @@
 .Flex2, .Flex15, .Flex16, .Flex18, .Flex25, .Flex26, .Flex35, .Flex33, .Flex50, .Flex36, .Flex96, .Flex104{
     background-size: cover;
 }
-
-.Flex4, .Flex5{
+ 
+.Flex4{
+    box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25), 0px 4px 4px rgba(0, 0, 0, 0.25);
     backdrop-filter: blur(12px);
 }
 
